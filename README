@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5145
+
+Vim syntax file for SPSS command files (.sps).
+
+This file highlights SPSS commands (including some common command abbreviations), subcommands, comments, and strings, based upon SPSS version 22.
